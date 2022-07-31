@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 5em;
+    color: #1abc9c;
+    margin: 10%;
+    padding: 50px 150px;
+    border: 3px solid #1abc9c;
+    cursor: pointer;
+    text-align: center;
+}
+h1:hover{
+    background-color: #9adfd1;
+}
